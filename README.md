@@ -17,8 +17,8 @@ This was my first real attempt at putting together a working Flutter app from sc
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/home_screen.png" width="250" alt="Home / Preferences screen" />
-  <img src="screenshots/order_summary.png" width="250" alt="Order Summary screen" />
+<img width="250" alt="Screenshot 2026-09-10 214252" src="https://github.com/user-attachments/assets/3795fbf9-06e3-4a52-8c46-f94f017d8340" />
+<img width="250" alt="Screenshot 2026-09-10 214317" src="https://github.com/user-attachments/assets/d7df4d3b-248b-451c-b0d2-304e349a6236" />
 </p>
 
 ## Demo Video
