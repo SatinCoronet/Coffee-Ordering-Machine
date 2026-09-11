@@ -23,7 +23,7 @@ This was my first real attempt at putting together a working Flutter app from sc
 
 ## Demo Video
 
-[Watch the demo](#) <!-- replace with your actual video link -->
+[Watch the demo](https://drive.google.com/file/d/18dZNLuEN_LUkYaXmJwo2CDQ7RQIQ2eo9/view?usp=sharing) <!-- replace with your actual video link -->
 
 ## Things I practiced / learned building this
 
