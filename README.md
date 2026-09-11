@@ -1,4 +1,4 @@
-# ☕ My Coffee Id
+# ☕ Coffee Ordering Machine
 
 A simple Flutter app I built while learning Dart and Flutter. Instead of just following tutorials, I wanted to practice the concepts on something small and fun of my own — so this is a little app for picking your coffee preferences and "ordering" a virtual coffee.
 
