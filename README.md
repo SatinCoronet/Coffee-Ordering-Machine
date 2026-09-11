@@ -41,9 +41,6 @@ lib/
 ├── Home.dart          # Stateless root screen (AppBar + layout)
 ├── Coffee_prefs.dart  # Stateful widget: strength/sugar/milk counters + order button
 └── OrderSummary.dart  # Stateful widget: order confirmation + brewing countdown
-screenshots/
-├── home_screen.png
-└── order_summary.png
 assets/
 └── img/
     ├── coffee_bean.png
